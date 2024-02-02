@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a Online Banking Website.
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on a Backend for my Website.
+- 🌱 I’m currently learning JS
 - 📫 How to reach me:
       - Discord: @Fr3d3
       - Email: Koch@cityoftomorrow.de
