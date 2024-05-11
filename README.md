@@ -9,4 +9,4 @@
       - Email: Koch@cityoftomorrow.de
 
 - Here are some little Stats:
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr3d3)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr3d33)](https://github.com/anuraghazra/github-readme-stats)
