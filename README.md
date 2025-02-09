@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on a Backend for my App.
-- 🌱 I’m currently learning JS/NodeJS
+- 🔭 I’m currently working on a many different Apps/Projects
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me:
       - Discord: @Fr3d3
-      - Email: Koch@cityoftomorrow.de
+      - Email: xfurki1@gmail.com
 - Here are some little Stats:
 
   
