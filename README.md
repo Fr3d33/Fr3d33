@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a many different Apps/Projects
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me:
-      - Discord: @Fr3d3
-      - Email: xfurki1@gmail.com
+      - Discord: @fr3d3
+      - Email: frederikkoch@proton.me
 - Here are some little Stats:
 
   
